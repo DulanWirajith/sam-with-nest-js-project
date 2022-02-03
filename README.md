@@ -72,5 +72,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 
+## For RUN
+#### sam build -> for build project
+#### sam local invoke -> test locally
+#### sam deploy -> deploy lambda function
+
 ## References
 https://www.adambarker.com/aws-serverless-application-model-lambda-and-nestjs/
